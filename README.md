@@ -4,7 +4,7 @@ This is for releasing the source code of the IEEE Access paper "Security Evaluat
 
 If you find it is useful and used for publication. Please kindly cite our work as:
 
-@inproceedings{gao2019strip,
+@inproceedings{pang2021Security,
 
   title={Security Evaluation of n-Choose-k-Sum PUFs against Modeling Attacks},
   
